@@ -2,7 +2,7 @@
 
 Depth-First Search (DFS) is similar to BFS, but with a key difference. While BFS explores all nodes around the start node before backtracking, DFS explores all branches in the first direction (node) before moving on to the next node. This distinction can be better understood in terms of nodes and grid maps.
 
-For a detailed explanation of Breadth-First Search (BFS), refer to the following [GitHub repository](https://github.com/Ahmed-M0ataz/bfs_path_planning_pkg) where BFS is explained.
+For a detailed explanation of Breadth-First Search (BFS), refer to the following [BFS](https://github.com/Ahmed-M0ataz/bfs_path_planning_pkg) where BFS is explained.
 
 ## Node Perspective
 
